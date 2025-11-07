@@ -24,5 +24,5 @@ It provides a fast development experience with a clean UI and reusable component
 
 ---
 
-## 📂 Folder Structure
+
 
